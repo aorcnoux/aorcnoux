@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hello there 👋
+
+Data-driven UX & Product Strategist | HCI Background  
+🏆 OpenHCI’25 1st Place  
+📊 5,500+ user insights → product decisions  
+⚡ Improved workflows by 50% (Microsoft, Meitu)
+
+- ⚙️ Tech: `.js` `.html` `.css` `.python`
+- 🎯 Focus: UX, data-driven design, AI-powered products
+
+<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 
 <!--
 **aorcnoux/aorcnoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
