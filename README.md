@@ -1,12 +1,13 @@
-### Hello there 👋
+## Hello there 👋
 
-Data-driven UX & Product Strategist | HCI Background  
-🏆 OpenHCI’25 1st Place  
-📊 5,500+ user insights → product decisions  
-⚡ Improved workflows by 50% (Microsoft, Meitu)
+**Data-driven UX & Product Strategist | HCI Background**
 
-- ⚙️ Tech: `.js` `.html` `.css` `.python`
-- 🎯 Focus: UX, data-driven design, AI-powered products
+* 🏆 **OpenHCI’25** - 1st Place Winner
+* 📊 **5,500+** User insights translated into product decisions
+* ⚡ **50%** Workflow improvement at **Microsoft** & **Meitu**
+* 🛠️ **Tech Stack:** `.js` `.html` `.css` `.python`
+* 🎯 **Focus:** UX Research, Data-driven Design, AI-powered Products
+
 
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 
